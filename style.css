@@ -5,6 +5,18 @@ h1{
     font-size: 55px;
 
 }
+p{
+    font-size: 30px;
+}
 .highlight{
     color: blue;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left:2%;
+}
+.half-width img {
+    width: 110%;
 }
