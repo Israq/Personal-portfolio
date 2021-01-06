@@ -1,4 +1,5 @@
 body{
+    margin: 0;
     font-family: 'Redressed', cursive;
 }
 h1{
@@ -19,4 +20,11 @@ p{
 }
 .half-width img {
     width: 110%;
+}
+.Top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
 }
